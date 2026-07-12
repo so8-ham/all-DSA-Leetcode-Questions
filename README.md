@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0268-missing-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0283-move-zeroes/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,4 +54,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0283-move-zeroes/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 <!---LeetCode Topics End-->
