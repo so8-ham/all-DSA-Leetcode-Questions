@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0125-valid-palindrome](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0125-valid-palindrome/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0031-next-permutation/) | Medium |
+| [0125-valid-palindrome](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0283-move-zeroes/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Simulation
