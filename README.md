@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0125-valid-palindrome](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0242-valid-anagram/) | Easy |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0031-next-permutation/) | Medium |
 | [0125-valid-palindrome](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0283-move-zeroes/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Simulation
