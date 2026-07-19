@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0242-valid-anagram/) | Easy |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
