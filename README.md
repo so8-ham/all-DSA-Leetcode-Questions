@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0048-rotate-image/) | Medium |
 | [0268-missing-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0268-missing-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0509-fibonacci-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0509-fibonacci-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0509-fibonacci-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,4 +148,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
