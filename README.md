@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0050-powx-n/) | Medium |
 | [0268-missing-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0509-fibonacci-number/) | Easy |
 ## String
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
