@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0283-move-zeroes/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0704-binary-search/) | Easy |
 | [0867-transpose-matrix](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0867-transpose-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0268-missing-number/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0704-binary-search/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1539-kth-missing-positive-number/) | Easy |
