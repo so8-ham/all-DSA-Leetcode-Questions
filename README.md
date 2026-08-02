@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0162-find-peak-element/) | Medium |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0050-powx-n/) | Medium |
+| [0069-sqrtx](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0509-fibonacci-number/) | Easy |
 ## String
