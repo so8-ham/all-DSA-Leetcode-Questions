@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0268-missing-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0704-binary-search/) | Easy |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0268-missing-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0509-fibonacci-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
