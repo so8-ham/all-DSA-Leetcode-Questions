@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0054-spiral-matrix/) | Medium |
+| [0056-merge-intervals](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0056-merge-intervals/) | Medium |
 | [0169-majority-element](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0242-valid-anagram/) | Easy |
