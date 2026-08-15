@@ -165,9 +165,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0050-powx-n/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0509-fibonacci-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0509-fibonacci-number/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
