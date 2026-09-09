@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0283-move-zeroes/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0704-binary-search/) | Easy |
 | [0867-transpose-matrix](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0867-transpose-matrix/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0268-missing-number/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,4 +183,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
