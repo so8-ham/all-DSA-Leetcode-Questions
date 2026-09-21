@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0031-next-permutation/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0035-search-insert-position/) | Easy |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0056-merge-intervals/) | Medium |
 | [0169-majority-element](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0169-majority-element/) | Easy |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0015-3sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0031-next-permutation/) | Medium |
 | [0125-valid-palindrome](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0151-reverse-words-in-a-string/) | Medium |
