@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0013-roman-to-integer/) | Easy |
 | [0041-first-missing-positive](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0049-group-anagrams/) | Medium |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0013-roman-to-integer/) | Easy |
@@ -220,4 +222,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
