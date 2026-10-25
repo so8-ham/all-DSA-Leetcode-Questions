@@ -11,20 +11,18 @@
  */
 class Solution {
 public:
-void minDist(TreeNode*root,int& prev,int&ans){
+ void minDist(TreeNode * root, int &prev, int & curr){
     if(!root) return;
-    minDist(root->left,prev,ans);
+    minDist(root->left, prev,curr);
     if(prev!=INT_MIN)
-    ans=min(ans,root->val-prev);
-
+    curr=min(curr,root->val-prev);
     prev=root->val;
-    minDist(root->right,prev,ans);
-}
-
+    minDist(root->right, prev,curr);
+ }
     int minDiffInBST(TreeNode* root) {
         int prev=INT_MIN;
-        int ans=INT_MAX;
-        minDist(root,prev,ans);
-        return ans;
+        int curr=INT_MAX;
+        minDist(root,prev, curr);
+        return curr;
     }
 };
