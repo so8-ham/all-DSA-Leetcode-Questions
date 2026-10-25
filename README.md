@@ -256,12 +256,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0112-path-sum/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0111-minimum-depth-of-binary-tree](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0112-path-sum/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Binary Tree
@@ -269,12 +271,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0112-path-sum/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0112-path-sum/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Binary Search Tree
