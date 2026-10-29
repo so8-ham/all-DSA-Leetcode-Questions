@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0268-missing-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0268-missing-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0268-missing-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0112-path-sum/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Breadth-First Search
@@ -282,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0112-path-sum/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Depth-First Search
