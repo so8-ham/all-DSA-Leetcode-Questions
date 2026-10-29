@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0031-next-permutation/) | Medium |
+| [0061-rotate-list](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0061-rotate-list](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Union-Find
