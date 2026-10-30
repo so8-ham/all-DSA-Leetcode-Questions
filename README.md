@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0877-stone-game/) | Medium |
+| [2396-strictly-palindromic-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0922-sort-array-by-parity-ii](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2396-strictly-palindromic-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -325,4 +327,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0877-stone-game/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2396-strictly-palindromic-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2396-strictly-palindromic-number/) | Medium |
 <!---LeetCode Topics End-->
