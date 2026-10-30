@@ -333,4 +333,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2396-strictly-palindromic-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2396-strictly-palindromic-number/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
