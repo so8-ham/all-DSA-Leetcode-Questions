@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0136-single-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0136-single-number/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0268-missing-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0268-missing-number/) | Easy |
 ## Sorting
