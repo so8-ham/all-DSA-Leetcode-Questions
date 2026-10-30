@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0704-binary-search/) | Easy |
 | [0867-transpose-matrix](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0867-transpose-matrix/) | Easy |
+| [0877-stone-game](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0877-stone-game/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0937-reorder-data-in-log-files](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0877-stone-game/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0509-fibonacci-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0877-stone-game/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -310,4 +313,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
