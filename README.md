@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0049-group-anagrams/) | Medium |
+| [0058-length-of-last-word](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0205-isomorphic-strings/) | Easy |
