@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0228-summary-ranges](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0228-summary-ranges/) | Easy |
 | [0229-majority-element-ii](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0268-missing-number/) | Easy |
