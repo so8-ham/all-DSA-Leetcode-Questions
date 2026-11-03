@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0136-single-number/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0877-stone-game/) | Medium |
 ## Stack
