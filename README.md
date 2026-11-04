@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0414-third-maximum-number/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
