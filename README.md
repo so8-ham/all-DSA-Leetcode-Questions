@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0031-next-permutation/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0035-search-insert-position/) | Easy |
+| [0039-combination-sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0049-group-anagrams/) | Medium |
@@ -375,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0039-combination-sum/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
