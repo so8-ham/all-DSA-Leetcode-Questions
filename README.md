@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0922-sort-array-by-parity-ii](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0937-reorder-data-in-log-files](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0054-spiral-matrix/) | Medium |
 | [0495-teemo-attacking](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0495-teemo-attacking/) | Easy |
 | [0867-transpose-matrix](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0867-transpose-matrix/) | Easy |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -229,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0463-island-perimeter](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0463-island-perimeter/) | Easy |
 | [0867-transpose-matrix](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0867-transpose-matrix/) | Easy |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
