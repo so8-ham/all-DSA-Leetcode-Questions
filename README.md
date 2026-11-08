@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0922-sort-array-by-parity-ii](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0937-reorder-data-in-log-files](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0463-island-perimeter](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0463-island-perimeter/) | Easy |
 | [0867-transpose-matrix](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0867-transpose-matrix/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -271,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -331,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0463-island-perimeter](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0463-island-perimeter/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -350,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0463-island-perimeter](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0463-island-perimeter/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
