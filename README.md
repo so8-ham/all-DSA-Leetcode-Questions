@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0561-array-partition/) | Easy |
+| [0605-can-place-flowers](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0704-binary-search/) | Easy |
 | [0867-transpose-matrix](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0867-transpose-matrix/) | Easy |
@@ -423,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0561-array-partition/) | Easy |
+| [0605-can-place-flowers](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0605-can-place-flowers/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
