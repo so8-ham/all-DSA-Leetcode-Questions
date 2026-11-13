@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0509-fibonacci-number/) | Easy |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0064-minimum-path-sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0070-climbing-stairs](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0877-stone-game/) | Medium |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0509-fibonacci-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
