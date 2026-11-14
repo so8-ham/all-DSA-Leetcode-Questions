@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2149-rearrange-array-elements-by-sign](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3814-maximum-capacity-within-budget](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3814-maximum-capacity-within-budget/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -318,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
