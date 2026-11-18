@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0877-stone-game/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [1822-sign-of-the-product-of-an-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
