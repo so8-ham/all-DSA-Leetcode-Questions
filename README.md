@@ -353,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0112-path-sum/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0501-find-mode-in-binary-search-tree](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -376,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0112-path-sum/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0501-find-mode-in-binary-search-tree](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -387,11 +389,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0463-island-perimeter](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0463-island-perimeter/) | Easy |
+| [0501-find-mode-in-binary-search-tree](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
