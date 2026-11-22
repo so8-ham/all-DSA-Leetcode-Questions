@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2460-apply-operations-to-an-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [2460-apply-operations-to-an-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [3814-maximum-capacity-within-budget](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3814-maximum-capacity-within-budget/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -249,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2460-apply-operations-to-an-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
