@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1399-count-largest-group](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1399-count-largest-group/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0937-reorder-data-in-log-files](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [1332-remove-palindromic-subsequences](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
@@ -264,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1399-count-largest-group](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1399-count-largest-group/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -349,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
