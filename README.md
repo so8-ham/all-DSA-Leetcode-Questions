@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0877-stone-game/) | Medium |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1399-count-largest-group](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1399-count-largest-group/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
