@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1822-sign-of-the-product-of-an-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [2578-split-with-minimum-sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0922-sort-array-by-parity-ii](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0937-reorder-data-in-log-files](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2578-split-with-minimum-sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [3814-maximum-capacity-within-budget](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3814-maximum-capacity-within-budget/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -473,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0605-can-place-flowers/) | Easy |
+| [2578-split-with-minimum-sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2578-split-with-minimum-sum/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
