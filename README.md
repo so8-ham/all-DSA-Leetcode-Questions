@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3814-maximum-capacity-within-budget](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3814-maximum-capacity-within-budget/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1863-sum-of-all-subset-xor-totals](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -354,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -463,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -473,4 +477,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0561-array-partition/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
