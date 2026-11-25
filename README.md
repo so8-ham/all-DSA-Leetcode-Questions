@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0697-degree-of-an-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0697-degree-of-an-array/) | Easy |
 | [0704-binary-search](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0704-binary-search/) | Easy |
 | [0867-transpose-matrix](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0877-stone-game/) | Medium |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0697-degree-of-an-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0697-degree-of-an-array/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1399-count-largest-group](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1399-count-largest-group/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
