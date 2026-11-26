@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1399-count-largest-group](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1399-count-largest-group/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2396-strictly-palindromic-number/) | Medium |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0937-reorder-data-in-log-files](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [1332-remove-palindromic-subsequences](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
