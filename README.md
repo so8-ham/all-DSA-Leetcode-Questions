@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2396-strictly-palindromic-number](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2578-split-with-minimum-sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3360-stone-removal-game](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## String
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2243-calculate-digit-sum-of-a-string](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3360-stone-removal-game](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3360-stone-removal-game/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
