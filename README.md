@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2460-apply-operations-to-an-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2974-minimum-number-game](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2974-minimum-number-game/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0937-reorder-data-in-log-files](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2578-split-with-minimum-sum/) | Easy |
+| [2974-minimum-number-game](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2974-minimum-number-game/) | Easy |
 | [3814-maximum-capacity-within-budget](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3814-maximum-capacity-within-budget/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2243-calculate-digit-sum-of-a-string](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2974-minimum-number-game](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2974-minimum-number-game/) | Easy |
 | [3360-stone-removal-game](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3360-stone-removal-game/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -372,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [2974-minimum-number-game](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2974-minimum-number-game/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
