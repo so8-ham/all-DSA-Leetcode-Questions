@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [3856-trim-trailing-vowels](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3856-trim-trailing-vowels/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
