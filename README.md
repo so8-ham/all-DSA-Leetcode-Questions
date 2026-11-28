@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1863-sum-of-all-subset-xor-totals](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
+| [2057-smallest-index-with-equal-value](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
