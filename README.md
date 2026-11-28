@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3814-maximum-capacity-within-budget](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3814-maximum-capacity-within-budget/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [2974-minimum-number-game](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/2974-minimum-number-game/) | Easy |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3814-maximum-capacity-within-budget](https://github.com/so8-ham/all-DSA-Leetcode-Questions/tree/main/3814-maximum-capacity-within-budget/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
